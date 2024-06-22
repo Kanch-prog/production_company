@@ -1,0 +1,39 @@
+.news {
+    padding: 20px;
+  }
+  
+  .news-list {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .news-item {
+    background-color: #f0f0f0;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    border-radius: 5px;
+    animation: fadeInOut 5s linear infinite;
+  }
+
+  .news-image {
+    width: 400px;
+    border-radius: 5px;
+  }
+
+  .read-more {
+    color: #001F3F;
+  }
+  
+  .read-more:hover {
+    color: #808080;
+  }
+
+  @keyframes fadeInOut {
+    0%, 100% {
+      opacity: 0.5; /* Start and end with semi-transparent */
+    }
+    50% {
+      opacity: 1; /* Fully visible at midpoint */
+    }
+  }

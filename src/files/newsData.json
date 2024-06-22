@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Introducing Our New Line of Aluminum Pantry Cupboards!",
+      "brief": "We are excited to announce the launch of our latest collection of aluminum pantry cupboards, designed to elevate your kitchen space with sleek modernity and unparalleled durability.",
+      "image": "images/news1.PNG",
+      "link": "http://localhost:3000/news/new-line-aluminum-pantry-cupboards"
+    },
+    {
+      "title": "Growing to Serve You Better: Expansion of Our Manufacturing Facilities",
+      "brief": "We are thrilled to share that due to increasing demand and our commitment to excellence, we are expanding our manufacturing facilities.",
+      "image": "images/news2.PNG",
+      "link": "http://localhost:3000/news/expansion-manufacturing-facilities"
+    },
+    {
+      "title": "Partnering for Innovation: Collaboration with IKEA",
+      "brief": "We are pleased to announce our strategic partnership with IKEA, a leader in home furnishing solutions.",
+      "image": "images/news3.PNG",
+      "link": "http://localhost:3000/news/collaboration-ikea"
+    }
+  ]
+  

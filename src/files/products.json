@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "title": "KITCHEN CABINETS FOR ANY NEED",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    },
+    {
+      "title": "KITCHEN CABINETS BY COLOR",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    },
+    {
+      "title": "Cabinets by type",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    },
+    {
+      "title": "SEMI-CUSTOM KITCHEN CABINETS",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    },
+    {
+      "title": "HAMPTON BAY COLLECTIONS - IN-STOCK & READY TO SHIP",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    },
+    {
+      "title": "KITCHEN CABINETS BY DOOR STYLE",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    },
+    {
+      "title": "KITCHEN CABINET ACCESSORIES",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    },
+    {
+      "title": "EXCLUSIVE CABINET COLLECTIONS",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    },
+    {
+      "title": "KITCHEN CABINET PROJECT HELP",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    },
+    {
+      "title": "COMPLETE YOUR PROJECT",
+      "products": [
+        { "id": 1, "title": "Product 1", "description": "Description of Product 1", "imageUrl": "https://via.placeholder.com/300", "price": 199.99 },
+        { "id": 2, "title": "Product 2", "description": "Description of Product 2", "imageUrl": "https://via.placeholder.com/300", "price": 299.99 },
+        { "id": 3, "title": "Product 3", "description": "Description of Product 3", "imageUrl": "https://via.placeholder.com/300", "price": 149.99 },
+        { "id": 4, "title": "Product 4", "description": "Description of Product 4", "imageUrl": "https://via.placeholder.com/300", "price": 249.99 }
+      ]
+    }
+  ]
+}

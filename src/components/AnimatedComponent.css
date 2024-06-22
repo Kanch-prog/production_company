@@ -1,0 +1,11 @@
+.animated-component {
+    opacity: 0;
+    transform: translateY(50px); /* Start from below and move up */
+    transition: opacity 0.5s ease, transform 0.5s ease;
+  }
+  
+  .animated-component.visible {
+    opacity: 1;
+    transform: translateY(0); /* Move to original position */
+  }
+  

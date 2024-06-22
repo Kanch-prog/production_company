@@ -1,0 +1,21 @@
+.category-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .category {
+    margin-bottom: 20px;
+  }
+
+  h3 {
+    
+    color: #1f0075;
+  }
+  
+  .product-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
